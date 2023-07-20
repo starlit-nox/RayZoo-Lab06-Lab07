@@ -1,0 +1,15 @@
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\obj\Debug\net7.0\Ray-Lecture.csproj.AssemblyReference.cache
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\obj\Debug\net7.0\Ray-Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\obj\Debug\net7.0\Ray-Lecture.AssemblyInfoInputs.cache
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\obj\Debug\net7.0\Ray-Lecture.AssemblyInfo.cs
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\obj\Debug\net7.0\Ray-Lecture.csproj.CoreCompileInputs.cache
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\bin\Debug\net7.0\Ray-Lecture.exe
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\bin\Debug\net7.0\Ray-Lecture.deps.json
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\bin\Debug\net7.0\Ray-Lecture.runtimeconfig.json
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\bin\Debug\net7.0\Ray-Lecture.dll
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\bin\Debug\net7.0\Ray-Lecture.pdb
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\obj\Debug\net7.0\Ray-Lecture.dll
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\obj\Debug\net7.0\refint\Ray-Lecture.dll
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\obj\Debug\net7.0\Ray-Lecture.pdb
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\obj\Debug\net7.0\Ray-Lecture.genruntimeconfig.cache
+C:\Users\kdkel\OneDrive\Documents\GitHub\Ray-Lecture\obj\Debug\net7.0\ref\Ray-Lecture.dll
