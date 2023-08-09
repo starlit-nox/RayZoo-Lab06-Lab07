@@ -1,4 +1,6 @@
-﻿namespace Lab6Zoo
+﻿using Lab6Zoo;
+
+namespace Lab6Zoo
 {
     class Monkey : Mammal
     {
@@ -12,4 +14,16 @@
             Console.WriteLine("Move like a monkey!");
         }
     }
+}
+
+
+class Monkey : Mammal, IClimbs
+{
+    public int Arms { get; set; }
+
+    public void Climb()
+    {
+        Console.WriteLine("Climbing up!");
+    }
+
 }

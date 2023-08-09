@@ -1,11 +1,26 @@
 ﻿namespace Lab6Zoo
 {
-    internal class Program
+    class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Dog dog = new Dog
+            {
+                FurColor = "Gray"
+            };
+            dog.Sleep();
+            dog.Breathe();
+            dog.Move();
+            dog.Walk();
 
-
+            Monkey monkey = new Monkey
+            {
+                FurColor = "Spotted"
+            };
+            monkey.Sleep();
+            monkey.Breathe();
+            monkey.Move();
+            monkey.ClimbTree();
         }
     }
 }
